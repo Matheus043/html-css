@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+body {
+    background-color: lightskyblue;
+    font-family: serif;
+}
+
+h1 {
+    color: brown;
+    background-color: black;
+}
+
+h2 {
+    color: rgb(76, 27, 141);
+}
